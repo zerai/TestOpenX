@@ -3,11 +3,11 @@
 
 files:
   - source: Data/Miur/data.csv
-    schema: schema.json
+    #schema: schema.json
     format: csv
     encoding: utf-8
-    skip_rows: 3
-    delimiter: ';'
+    #skip_rows: 3
+    #delimiter: ';'
 
 
 settings:
