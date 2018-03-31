@@ -1,0 +1,10 @@
+{
+  "name": "my-dataset",
+  "title": "My dataset",
+  "resources": [
+    {
+      "name": "my-data",
+      "path": "prog_FS0713_NAZ_20171031.csv"
+    }
+  ]
+}
