@@ -1,0 +1,353 @@
+ANNO_SOLARE;TIPOLOGIA_COLLEGIO;CODICE_COLLEGIO;NOME_COLLEGIO;TIPOLOGIA_ISTITUTO;CODICE_SPESA;DESCRIZIONE_SPESA;SPESA_LAUREA;SPESA_DOTTORATO;SPESA_SPECIALIZZAZIONE
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;13228;0;0
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;2042656;52447;13802
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;0;0
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;0
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;31450;0;0
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;162259;0;0
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;14000;0;0
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;0;0
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;0;0
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;66804;0;0
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;11041;;
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CLR;0102;"Collegio universitario di Torino ''Renato Einaudi""";AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
+2016;CLR;0313;"Almo Collegio ''Borromeo""";Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;284042;0;0
+2016;CLR;0313;"Almo Collegio ''Borromeo""";Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;1609566;26300;5260
+2016;CLR;0313;"Almo Collegio ''Borromeo""";Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;0;0
+2016;CLR;0313;"Almo Collegio ''Borromeo""";Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;0
+2016;CLR;0313;"Almo Collegio ''Borromeo""";Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;16610;0;0
+2016;CLR;0313;"Almo Collegio ''Borromeo""";Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CLR;0313;"Almo Collegio ''Borromeo""";Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;0;0
+2016;CLR;0313;"Almo Collegio ''Borromeo""";Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;6000;0
+2016;CLR;0313;"Almo Collegio ''Borromeo""";Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;0;0
+2016;CLR;0313;"Almo Collegio ''Borromeo""";Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;28500;1700;0
+2016;CLR;0313;"Almo Collegio ''Borromeo""";Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;5272;0;0
+2016;CLR;0313;"Almo Collegio ''Borromeo""";AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CLR;0313;"Almo Collegio ''Borromeo""";AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;;
+2016;CLR;0313;"Almo Collegio ''Borromeo""";AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CLR;0313;"Almo Collegio ''Borromeo""";AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CLR;0313;"Almo Collegio ''Borromeo""";AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CLR;0313;"Almo Collegio ''Borromeo""";AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CLR;0313;"Almo Collegio ''Borromeo""";AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CLR;0313;"Almo Collegio ''Borromeo""";AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CLR;0313;"Almo Collegio ''Borromeo""";AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CLR;0313;"Almo Collegio ''Borromeo""";AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CLR;0313;"Almo Collegio ''Borromeo""";AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;199872;0;0
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;1065984;222080;333120
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;0;0
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;0
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;34730;0;8500
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;0;0
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;0;0
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;0;0
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;0;0
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;0;0
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;11104;;
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CLR;0314;Collegio Nuovo - Fondazione Sandra e Enea Mattei;AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
+2016;CLR;0316;Collegio universitario Ghislieri;Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;266310;132000;0
+2016;CLR;0316;Collegio universitario Ghislieri;Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;1071592;68258;0
+2016;CLR;0316;Collegio universitario Ghislieri;Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;0;0
+2016;CLR;0316;Collegio universitario Ghislieri;Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;0
+2016;CLR;0316;Collegio universitario Ghislieri;Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;21347;2000;0
+2016;CLR;0316;Collegio universitario Ghislieri;Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CLR;0316;Collegio universitario Ghislieri;Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;9200;7941;0
+2016;CLR;0316;Collegio universitario Ghislieri;Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;0;0
+2016;CLR;0316;Collegio universitario Ghislieri;Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;0;0
+2016;CLR;0316;Collegio universitario Ghislieri;Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;0;0
+2016;CLR;0316;Collegio universitario Ghislieri;Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;5470;61261;0
+2016;CLR;0316;Collegio universitario Ghislieri;AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CLR;0316;Collegio universitario Ghislieri;AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;;
+2016;CLR;0316;Collegio universitario Ghislieri;AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CLR;0316;Collegio universitario Ghislieri;AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CLR;0316;Collegio universitario Ghislieri;AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CLR;0316;Collegio universitario Ghislieri;AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CLR;0316;Collegio universitario Ghislieri;AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CLR;0316;Collegio universitario Ghislieri;AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CLR;0316;Collegio universitario Ghislieri;AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CLR;0316;Collegio universitario Ghislieri;AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CLR;0316;Collegio universitario Ghislieri;AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;270500;0;0
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;369710;53200;42500
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;0;0
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;0
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;14500;8400;0
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;0;0
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;0;0
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;0;0
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;0;0
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;11600;0;0
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;;
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CLR;0317;"Collegio universitario ''S. Caterina da Siena""";AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;0;0
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;104946;16950;21150
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;0;0
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;0
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;0;0;0
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;0;0
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;0;0
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;0;0
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;0;0
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;0;0
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;6150;;
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CLR;0318;Fondazione Collegio delle Università Milanesi;AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;0;0
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;3558526;15000;0
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;0;0
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;0
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;58350;0;0
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;13353;0;0
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;0;0
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;0;0
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;0;0
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;0;0
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;;
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CLR;0508;"Collegio universitario ''don Nicola Mazza""";AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;0;0
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;275894;0;0
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;0;0
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;0
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;0;0;0
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;0;0
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;0;0
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;0;0
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;0;0
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;0;0
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;;
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CLR;0805;Fondazione Ceur - Centro europeo università e ricerca;AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;18182;136363;0
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;240678;0;0
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;0;0
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;0
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;0;2423;0
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;0;0
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;0;0
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;1000;0
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;0;0
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;101763;0
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;;
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CLR;0806;Fondazione Collegio San Carlo di Modena;AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
+2016;CS;0904;Scuola normale superiore;Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;1580238;344564;0
+2016;CS;0904;Scuola normale superiore;Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;0;0
+2016;CS;0904;Scuola normale superiore;Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;1192932;0
+2016;CS;0904;Scuola normale superiore;Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;0
+2016;CS;0904;Scuola normale superiore;Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;73432;168203;0
+2016;CS;0904;Scuola normale superiore;Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CS;0904;Scuola normale superiore;Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;48000;0;0
+2016;CS;0904;Scuola normale superiore;Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;0;0
+2016;CS;0904;Scuola normale superiore;Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;0;0
+2016;CS;0904;Scuola normale superiore;Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;0;0
+2016;CS;0904;Scuola normale superiore;Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;0;0
+2016;CS;0904;Scuola normale superiore;AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CS;0904;Scuola normale superiore;AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;;
+2016;CS;0904;Scuola normale superiore;AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CS;0904;Scuola normale superiore;AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CS;0904;Scuola normale superiore;AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CS;0904;Scuola normale superiore;AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CS;0904;Scuola normale superiore;AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CS;0904;Scuola normale superiore;AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CS;0904;Scuola normale superiore;AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CS;0904;Scuola normale superiore;AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CS;0904;Scuola normale superiore;AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;-7;0;0
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;0;0
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;0;0
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;0
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;23614;101883;0
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;6975;0;0
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;0;0
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;0;0
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;0;0
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;214000;0;0
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;;
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CS;0905;Scuola Superiore di studi universitari e di perfezionamento Sant'Anna;AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;440791;51521;0
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;0;0
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;0;0
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;0
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;2000;0;0
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;0;0
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;0;0
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;7010;0;0
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;0;0
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;15354;0;0
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;;
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CLR;1210;"Fondazione  ''Comunità  Domenico Tardini""";AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
+2016;CLR;1211;Associazione Cuir ;Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;0;0
+2016;CLR;1211;Associazione Cuir ;Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;408340;0;0
+2016;CLR;1211;Associazione Cuir ;Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;0;0
+2016;CLR;1211;Associazione Cuir ;Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;0
+2016;CLR;1211;Associazione Cuir ;Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;0;0;0
+2016;CLR;1211;Associazione Cuir ;Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CLR;1211;Associazione Cuir ;Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;0;0
+2016;CLR;1211;Associazione Cuir ;Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;0;0
+2016;CLR;1211;Associazione Cuir ;Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;0;0
+2016;CLR;1211;Associazione Cuir ;Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;0;0
+2016;CLR;1211;Associazione Cuir ;Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;0;0
+2016;CLR;1211;Associazione Cuir ;AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CLR;1211;Associazione Cuir ;AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;;
+2016;CLR;1211;Associazione Cuir ;AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CLR;1211;Associazione Cuir ;AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CLR;1211;Associazione Cuir ;AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CLR;1211;Associazione Cuir ;AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CLR;1211;Associazione Cuir ;AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CLR;1211;Associazione Cuir ;AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CLR;1211;Associazione Cuir ;AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CLR;1211;Associazione Cuir ;AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CLR;1211;Associazione Cuir ;AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
+2016;CLR;1212;Fondazione Rui - ROMA;Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;24800;0;0
+2016;CLR;1212;Fondazione Rui - ROMA;Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;4222064;0;0
+2016;CLR;1212;Fondazione Rui - ROMA;Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;0;0
+2016;CLR;1212;Fondazione Rui - ROMA;Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;0
+2016;CLR;1212;Fondazione Rui - ROMA;Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;0;0;0
+2016;CLR;1212;Fondazione Rui - ROMA;Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CLR;1212;Fondazione Rui - ROMA;Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;0;0
+2016;CLR;1212;Fondazione Rui - ROMA;Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;0;0
+2016;CLR;1212;Fondazione Rui - ROMA;Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;0;0
+2016;CLR;1212;Fondazione Rui - ROMA;Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;0;0
+2016;CLR;1212;Fondazione Rui - ROMA;Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;0;0
+2016;CLR;1212;Fondazione Rui - ROMA;AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CLR;1212;Fondazione Rui - ROMA;AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;;
+2016;CLR;1212;Fondazione Rui - ROMA;AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CLR;1212;Fondazione Rui - ROMA;AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CLR;1212;Fondazione Rui - ROMA;AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CLR;1212;Fondazione Rui - ROMA;AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CLR;1212;Fondazione Rui - ROMA;AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CLR;1212;Fondazione Rui - ROMA;AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CLR;1212;Fondazione Rui - ROMA;AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CLR;1212;Fondazione Rui - ROMA;AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CLR;1212;Fondazione Rui - ROMA;AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;0;0
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;78350;10000;14200
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;0;5000
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;11500
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;0;0;0
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;0;0
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;0;0
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;0;0
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;0;22500
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;0;22700
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;;
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CLR;1508;Ipe - Istituto per ricerche ed attività educative;AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
+2016;CLR;1905;Assocazione ARCES;Ateneo;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;0;0
+2016;CLR;1905;Assocazione ARCES;Ateneo;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;39351;0;0
+2016;CLR;1905;Assocazione ARCES;Ateneo;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;0;0
+2016;CLR;1905;Assocazione ARCES;Ateneo;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;0;0
+2016;CLR;1905;Assocazione ARCES;Ateneo;5;Mobilità internazionale - Spesa per contributi concessi;0;0;0
+2016;CLR;1905;Assocazione ARCES;Ateneo;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;0;0
+2016;CLR;1905;Assocazione ARCES;Ateneo;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;0;0
+2016;CLR;1905;Assocazione ARCES;Ateneo;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;0;0
+2016;CLR;1905;Assocazione ARCES;Ateneo;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;0;0
+2016;CLR;1905;Assocazione ARCES;Ateneo;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;0;0
+2016;CLR;1905;Assocazione ARCES;Ateneo;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;0;0
+2016;CLR;1905;Assocazione ARCES;AFAM;1;Posti alloggio e contributi-alloggio - Spesa per posti alloggio assegnati gratuitamente;0;;
+2016;CLR;1905;Assocazione ARCES;AFAM;2;Posti alloggio e contributi-alloggio - Spesa per posti alloggio a tariffa agevolata;0;;
+2016;CLR;1905;Assocazione ARCES;AFAM;3;Posti alloggio e contributi-alloggio - Spesa per contributi assegnati per alloggio esterno;0;;
+2016;CLR;1905;Assocazione ARCES;AFAM;4;Prestiti di onore e altri prestiti agevolati - Spesa per prestiti concessi;0;;
+2016;CLR;1905;Assocazione ARCES;AFAM;5;Mobilità internazionale - Spesa per contributi concessi;0;;
+2016;CLR;1905;Assocazione ARCES;AFAM;6;Interventi a favore di studenti in situazione di handicap - Spesa per interventi concessi;0;;
+2016;CLR;1905;Assocazione ARCES;AFAM;7;Attività di collaborazione a tempo parziale - Spesa per attività di collaborazione a tempo parziale;0;;
+2016;CLR;1905;Assocazione ARCES;AFAM;8;Altri interventi di tipo finanziario - Spesa per premi per il conseguimento del titolo;0;;
+2016;CLR;1905;Assocazione ARCES;AFAM;9;Altri interventi di tipo finanziario - Spesa per contributi finanziari per il trasporto;0;;
+2016;CLR;1905;Assocazione ARCES;AFAM;10;Altri interventi di tipo finanziario - Spesa per contributi straordinari;0;;
+2016;CLR;1905;Assocazione ARCES;AFAM;11;Altri interventi di tipo finanziario - Spesa per altri sussidi concessi;0;;
