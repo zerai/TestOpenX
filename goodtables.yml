@@ -12,7 +12,7 @@
 datapackages:
   - 'Data/Miur/datapackage.json'
 
-#settings:
+settings:
 #  checks:
 #    # You can pass check types
 #    - structure
@@ -24,7 +24,7 @@ datapackages:
     #- duplicate-lines
 #  error_limit: 1
 #  table_limit: 1
-#  row_limit: 9000
+  row_limit: 9000
 #  infer_schema: True
 #  infer_fields: True
 #  order_fields: True
