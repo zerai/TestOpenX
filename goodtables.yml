@@ -20,11 +20,11 @@ settings:
 #    # ...or individual checks
 #    - no-headers
 #    - blank-headers
-  skip_checks:
-    - duplicate-lines
+  #skip_checks:
+    #- duplicate-lines
 #  error_limit: 1
 #  table_limit: 1
-  row_limit: 5000
+#  row_limit: 9000
 #  infer_schema: True
 #  infer_fields: True
 #  order_fields: True
