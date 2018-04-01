@@ -1,13 +1,13 @@
 #files: '*.csv'
 
 
-files:
-  - source: Data/Miur/data.csv
-    #schema: schema.json
-    format: csv
-    encoding: utf-8
-    #skip_rows: 3
-    #delimiter: ';'
+#files:
+#  - source: Data/Miur/data.csv
+#    #schema: schema.json
+#    format: csv
+#    encoding: utf-8
+#    #skip_rows: 3
+#    #delimiter: ';'
 
 datapackages:
   - 'Data/Miur/datapackage.json'
