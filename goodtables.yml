@@ -9,6 +9,8 @@ files:
     #skip_rows: 3
     #delimiter: ';'
 
+datapackages:
+  - 'Data/Miur/datapackage.json'
 
 settings:
 #  checks:
