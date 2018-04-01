@@ -10,7 +10,7 @@
 #    #delimiter: ';'
 
 datapackages:
-  - 'Data/Miur/'
+  - 'Data/Miur/datapackage.json'
 
 settings:
 #  checks:
