@@ -12,7 +12,7 @@
 datapackages:
   - 'Data/Miur/datapackage.json'
 
-settings:
+#settings:
 #  checks:
 #    # You can pass check types
 #    - structure
